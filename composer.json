@@ -1,5 +1,5 @@
 {
-  "name" : "YuzuruS/cakephp-redis",
+  "name" : "yuzuru-s/cakephp-redis",
   "type": "cakephp-plugin",
   "extra": {
     "installer-name" : "Redis"
